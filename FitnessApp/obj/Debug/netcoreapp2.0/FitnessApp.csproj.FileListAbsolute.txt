@@ -1,0 +1,11 @@
+c:\users\trevor kelly\Source\repos\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.deps.json
+c:\users\trevor kelly\Source\repos\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.runtimeconfig.json
+c:\users\trevor kelly\Source\repos\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.runtimeconfig.dev.json
+c:\users\trevor kelly\Source\repos\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.dll
+c:\users\trevor kelly\Source\repos\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.csprojAssemblyReference.cache
+c:\users\trevor kelly\Source\repos\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.csproj.CoreCompileInputs.cache
+c:\users\trevor kelly\Source\repos\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.AssemblyInfoInputs.cache
+c:\users\trevor kelly\Source\repos\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.AssemblyInfo.cs
+c:\users\trevor kelly\Source\repos\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.pdb
+c:\users\trevor kelly\Source\repos\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.dll
+c:\users\trevor kelly\Source\repos\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.pdb
